@@ -1,7 +1,7 @@
 # ts-migrate
 
 Repository de migration vers TypeScript et Go
-pour une plateforme de streaming audio.
+pour une plateforme de cx-banger.
 
 ## Stack
 - Frontend : TypeScript (Next.js)
